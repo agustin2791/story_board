@@ -16,5 +16,18 @@
         }
       }
     }
-  }
+  },
+  "function": {
+    "storyboardc2f5e717DefineAuthChallenge": {
+      "build": true,
+      "providerPlugin": "awscloudformation",
+      "service": "Lambda"
+    },
+    "storyboardc2f5e717CreateAuthChallenge": {
+      "build": true,
+      "providerPlugin": "awscloudformation",
+      "service": "Lambda"
+    }
+  },
+  "auth": {}
 }

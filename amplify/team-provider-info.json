@@ -10,6 +10,12 @@
       "StackName": "amplify-storyboard-dev-232429",
       "StackId": "arn:aws:cloudformation:us-east-2:535026343353:stack/amplify-storyboard-dev-232429/d70b9430-54ca-11ec-b010-069e6c6ac232",
       "AmplifyAppId": "d3vnq6226eb1fm"
+    },
+    "categories": {
+      "function": {
+        "storyboardc2f5e717DefineAuthChallenge": {},
+        "storyboardc2f5e717CreateAuthChallenge": {}
+      }
     }
   }
 }
